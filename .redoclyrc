@@ -1,0 +1,8 @@
+
+apiTitle: apiwork
+splitSpec: false
+codeSamples: true
+swaggerUI: false
+travis: true
+repo: gl-works/apiwork
+oasVersion: 3.0.0
